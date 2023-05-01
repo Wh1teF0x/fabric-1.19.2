@@ -1,7 +1,7 @@
-./server//mods/Controlling-fabric-1.19.2-10.0+7.jar
-./server//mods/entityculling-fabric-1.6.1-mc1.19.2.jar
-./server//mods/indium-1.0.9+mc1.19.2.jar
-./server//mods/invhud.fabric.1.19-3.4.7.jar
-./server//mods/modmenu-4.1.2.jar
-./server//mods/MouseTweaks-fabric-mc1.19-2.22.jar
-./server//mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar
+./server/mods/Controlling-fabric-1.19.2-10.0+7.jar
+./server/mods/entityculling-fabric-1.6.1-mc1.19.2.jar
+./server/mods/indium-1.0.9+mc1.19.2.jar
+./server/mods/invhud.fabric.1.19-3.4.7.jar
+./server/mods/modmenu-4.1.2.jar
+./server/mods/MouseTweaks-fabric-mc1.19-2.22.jar
+./server/mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar
